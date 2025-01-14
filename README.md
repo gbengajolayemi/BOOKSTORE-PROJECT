@@ -16,6 +16,17 @@ A RESTful API built with Node.js, Express, and PostgreSQL.
     └── config/
 ```
 
+auth payload
+
+http://localhost:3002/api/login
+
+#hardcorded the auth cred 
+
+{
+	"username": "admin",
+	"password": "password"
+}
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -26,7 +37,7 @@ A RESTful API built with Node.js, Express, and PostgreSQL.
 ### Local Development
 1. Clone the repository
 ```bash
-git clone [repository-url]
+
 cd Solid
 ```
 
