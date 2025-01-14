@@ -1,6 +1,6 @@
 # Project Name
 
-A RESTful API built with Node.js, Express, and PostgreSQL.
+A RESTful API built with Node.js, Express, and mysql.
 
 ## Project Structure
 
