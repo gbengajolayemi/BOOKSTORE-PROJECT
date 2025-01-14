@@ -71,7 +71,7 @@ Please contact me if you need the live credentials to my db to test directly wit
 
 ### Endpoints
 
-Detailed API documentation is available in the Postman collection. Import the `Solid-API.postman_collection.json` file into Postman to view all endpoints.
+Detailed API documentation is available in the Postman collection attached
 
 #### Key Endpoints:
 - `GET /api/users` - Get all users
